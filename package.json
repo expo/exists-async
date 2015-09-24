@@ -1,6 +1,6 @@
 {
   "name": "exists-async",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Present a Promise-based interface for testing if something exists or not",
   "main": "index.js",
   "scripts": {
